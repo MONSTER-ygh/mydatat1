@@ -1,0 +1,25 @@
+{
+  "wxbox":[
+    {
+      "img": "./../../static/images/wxgzh.jpg",
+      "name": "微信公众号"
+    },
+    {
+      "img": "./../../static/images/wx.png",
+      "name": "我的微信"
+    }
+  ],
+  "endnav":
+  {
+      "name1":"站点声明：",
+      "text1": "1、本站个人博客模板，均为YGH本人设计，个人可以使用，但是未经许可不得用于任何商业目的。",
+      "text": "2、所有文章未经授权禁止转载、摘编、复制或建立镜像，如有违反，追究法律责任。举报邮箱：",
+      "qqemil":"374914060@qq.com"
+    },
+  "copyright": {
+    "name2":"copyright ©t",
+    "src": "www.MON.com",
+    "text1": "All Rights Reserved. 备案号：",
+    "text2": "黔ICP备11002373号-1"
+  }
+}

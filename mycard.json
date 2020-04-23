@@ -1,0 +1,14 @@
+{
+  "card": {
+    "name": "YGH",
+    "netname":"网名：MONSTER | 大怪兽",
+    "work": "职业：Web前端设计师、网页设计",
+    "home": "现居：贵州省-贵阳市",
+    "email": "Email：374914060@qq.com",
+    "src1": "#/index",
+    "src2": "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=374914060@qq.com",
+    "src3": "http://wpa.qq.com/msgrd?v=3&uin=374914060&site=qq&menu=yes",
+    "src4": "#",
+    "img": "./../../static/images/wx.png"
+  }
+}

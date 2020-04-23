@@ -1,0 +1,15 @@
+{
+  "starlist": [
+    { "name": "首页","src": "#/index" },
+    { "name": "网页制作","src": "#/webmake/0" },
+    { "name": "设计心得","src": "#/xd" },
+    { "name": "关于我","src": "#/about" },
+    { "name": "时间轴","src": "#/time" },
+    { "name": "留言","src": "#/gbook" }
+  ],
+  "webmake": [
+    { "name": "Html5|Css3","src": "#/webmake/1" },
+    { "name": "网站设计","src": "#/webmake/2" },
+    { "name": "推荐工具","src": "#/webmake/3" }
+  ]
+}

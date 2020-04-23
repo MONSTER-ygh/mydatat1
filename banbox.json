@@ -1,0 +1,8 @@
+{
+  "imgs": [
+    {"src": "../static/images/1.jpg","href": "#"},
+    {"src": "../static/images/2.jpg","href": "#"},
+    {"src": "../static/images/3.jpg","href": "#"},
+    {"src": "../static/images/4.jpg","href": "#"}
+  ]
+}
