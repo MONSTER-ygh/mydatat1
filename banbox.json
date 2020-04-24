@@ -1,8 +1,8 @@
 {
   "imgs": [
-    {"src": "../static/images/1.jpg","href": "#"},
-    {"src": "../static/images/2.jpg","href": "#"},
-    {"src": "../static/images/3.jpg","href": "#"},
-    {"src": "../static/images/4.jpg","href": "#"}
+    {"src": "https://monster-ygh.github.io/mydatat1/images/1.jpg","href": "#"},
+    {"src": "https://monster-ygh.github.io/mydatat1/images/2.jpg","href": "#"},
+    {"src": "https://monster-ygh.github.io/mydatat1/images/3.jpg","href": "#"},
+    {"src": "https://monster-ygh.github.io/mydatat1/images/4.jpg","href": "#"}
   ]
 }
